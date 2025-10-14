@@ -13,9 +13,10 @@ are both visible and meet the needs of our stakeholders.
 
 ## Areas of interest
 
+- Certificate management
+- DNS management
 - Networking between public cloud environments
 - Networking between public cloud and on-premise environments
-- DNS management
 
 ## How to contact us
 
